@@ -1,0 +1,2282 @@
+[
+  {
+    "__backendId": "initial_1762355312222_0",
+    "id": "initial_1762355312222_0",
+    "foreign_word": "rumah",
+    "korean_meaning": "집",
+    "image_url": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=400&h=300&fit=crop",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "initial_1762355312222_1",
+    "id": "initial_1762355312222_1",
+    "foreign_word": "Saya makan siang.",
+    "korean_meaning": "나는 점심을 먹는다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "initial_1762355312222_2",
+    "id": "initial_1762355312222_2",
+    "foreign_word": "Siapa ini?",
+    "korean_meaning": "이 사람은 누구입니까?",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_3",
+    "id": "initial_1762355312222_3",
+    "foreign_word": "Ini guru.",
+    "korean_meaning": "이 사람은 선생님입니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_4",
+    "id": "initial_1762355312222_4",
+    "foreign_word": "Ini teman.",
+    "korean_meaning": "이 사람은 친구입니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_5",
+    "id": "initial_1762355312222_5",
+    "foreign_word": "siapa itu?",
+    "korean_meaning": "저 사람은 누구입니까?",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_6",
+    "id": "initial_1762355312222_6",
+    "foreign_word": "Itu pacar.",
+    "korean_meaning": "저 사람은 애인이야.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_7",
+    "id": "initial_1762355312222_7",
+    "foreign_word": "Itu pacar siapa?",
+    "korean_meaning": "저 사람은 누구의 애인입니까?",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_8",
+    "id": "initial_1762355312222_8",
+    "foreign_word": "Ini apa?",
+    "korean_meaning": "이것은 무엇입니까?",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_9",
+    "id": "initial_1762355312222_9",
+    "foreign_word": "Ini rumah siapa?",
+    "korean_meaning": "이 집은 누구의 집입니까?",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_10",
+    "id": "initial_1762355312222_10",
+    "foreign_word": "Ini rumah saya.",
+    "korean_meaning": "이 것은 나의 집입니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_11",
+    "id": "initial_1762355312222_11",
+    "foreign_word": "Ini rumah kami.",
+    "korean_meaning": "이것은 우리의 집입니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_12",
+    "id": "initial_1762355312222_12",
+    "foreign_word": "Ini rumah mereka.",
+    "korean_meaning": "이 집은 그들의 집입니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_13",
+    "id": "initial_1762355312222_13",
+    "foreign_word": "rumahku",
+    "korean_meaning": "내 집",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_14",
+    "id": "initial_1762355312222_14",
+    "foreign_word": "rumahmu",
+    "korean_meaning": "너의 집",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_15",
+    "id": "initial_1762355312222_15",
+    "foreign_word": "rumahnya",
+    "korean_meaning": "그/그녀의 집",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_16",
+    "id": "initial_1762355312222_16",
+    "foreign_word": "saya",
+    "korean_meaning": "나",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "initial_1762355312222_17",
+    "id": "initial_1762355312222_17",
+    "foreign_word": "aku",
+    "korean_meaning": "나(친한)",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "initial_1762355312222_18",
+    "id": "initial_1762355312222_18",
+    "foreign_word": "anda",
+    "korean_meaning": "너",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "initial_1762355312222_19",
+    "id": "initial_1762355312222_19",
+    "foreign_word": "kamu",
+    "korean_meaning": "너(어린)",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "initial_1762355312222_20",
+    "id": "initial_1762355312222_20",
+    "foreign_word": "Dia",
+    "korean_meaning": "그/그녀",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "initial_1762355312222_21",
+    "id": "initial_1762355312222_21",
+    "foreign_word": "beliau",
+    "korean_meaning": "그 분",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "initial_1762355312222_22",
+    "id": "initial_1762355312222_22",
+    "foreign_word": "kita",
+    "korean_meaning": "우리(너 포함)",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "initial_1762355312222_23",
+    "id": "initial_1762355312222_23",
+    "foreign_word": "kami",
+    "korean_meaning": "우리(너 말고)",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "initial_1762355312222_24",
+    "id": "initial_1762355312222_24",
+    "foreign_word": "Anda sekalian",
+    "korean_meaning": "당신들",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "initial_1762355312222_25",
+    "id": "initial_1762355312222_25",
+    "foreign_word": "Kamu Sekalian",
+    "korean_meaning": "너희들",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "initial_1762355312222_26",
+    "id": "initial_1762355312222_26",
+    "foreign_word": "Mereka",
+    "korean_meaning": "그들",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "initial_1762355312222_27",
+    "id": "initial_1762355312222_27",
+    "foreign_word": "Siapa nama Anda?",
+    "korean_meaning": "당신의 이름은 무엇입니까?",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_28",
+    "id": "initial_1762355312222_28",
+    "foreign_word": "Nama saya Budi.",
+    "korean_meaning": "내 이름은 부디입니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_29",
+    "id": "initial_1762355312222_29",
+    "foreign_word": "Siapa namamu?",
+    "korean_meaning": "너의 이름은 뭐니?",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_30",
+    "id": "initial_1762355312222_30",
+    "foreign_word": "Namaku Budi.",
+    "korean_meaning": "내 이름은 부디야.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_31",
+    "id": "initial_1762355312222_31",
+    "foreign_word": "laki-laki",
+    "korean_meaning": "남자",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_32",
+    "id": "initial_1762355312222_32",
+    "foreign_word": "perempuan",
+    "korean_meaning": "여자",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_33",
+    "id": "initial_1762355312222_33",
+    "foreign_word": "jantan",
+    "korean_meaning": "수컷",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_34",
+    "id": "initial_1762355312222_34",
+    "foreign_word": "betina",
+    "korean_meaning": "암컷",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_35",
+    "id": "initial_1762355312222_35",
+    "foreign_word": "anak",
+    "korean_meaning": "아이, 자녀",
+    "image_url": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=400&h=300&fit=crop",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_36",
+    "id": "initial_1762355312222_36",
+    "foreign_word": "anak perempuan",
+    "korean_meaning": "여자아이, 딸",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_37",
+    "id": "initial_1762355312222_37",
+    "foreign_word": "anak laki-laki",
+    "korean_meaning": "남자아이, 아들",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_38",
+    "id": "initial_1762355312222_38",
+    "foreign_word": "adik",
+    "korean_meaning": "동생",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_39",
+    "id": "initial_1762355312222_39",
+    "foreign_word": "adik perempuan",
+    "korean_meaning": "여동생",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_40",
+    "id": "initial_1762355312222_40",
+    "foreign_word": "adik laki-laki",
+    "korean_meaning": "남동생",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_41",
+    "id": "initial_1762355312222_41",
+    "foreign_word": "ayam",
+    "korean_meaning": "닭",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_42",
+    "id": "initial_1762355312222_42",
+    "foreign_word": "ayam jantan",
+    "korean_meaning": "수탉",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_43",
+    "id": "initial_1762355312222_43",
+    "foreign_word": "ayam betina",
+    "korean_meaning": "암탉",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_44",
+    "id": "initial_1762355312222_44",
+    "foreign_word": "kucing",
+    "korean_meaning": "고양이",
+    "image_url": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=400&h=300&fit=crop",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_45",
+    "id": "initial_1762355312222_45",
+    "foreign_word": "kucing jantan",
+    "korean_meaning": "수고양이",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_46",
+    "id": "initial_1762355312222_46",
+    "foreign_word": "kucing betina",
+    "korean_meaning": "암고양이",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_47",
+    "id": "initial_1762355312222_47",
+    "foreign_word": "putri",
+    "korean_meaning": "공주",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_48",
+    "id": "initial_1762355312222_48",
+    "foreign_word": "putra",
+    "korean_meaning": "왕자",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_49",
+    "id": "initial_1762355312222_49",
+    "foreign_word": "mahasiswa",
+    "korean_meaning": "남자 대학생, 대학생",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_50",
+    "id": "initial_1762355312222_50",
+    "foreign_word": "mahasiswi",
+    "korean_meaning": "여대생",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_51",
+    "id": "initial_1762355312222_51",
+    "foreign_word": "pemuda",
+    "korean_meaning": "청년",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_52",
+    "id": "initial_1762355312222_52",
+    "foreign_word": "pemudi",
+    "korean_meaning": "청년(여성)",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_53",
+    "id": "initial_1762355312222_53",
+    "foreign_word": "buku-buku",
+    "korean_meaning": "책들",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_54",
+    "id": "initial_1762355312222_54",
+    "foreign_word": "anak-anak",
+    "korean_meaning": "아이들",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_55",
+    "id": "initial_1762355312222_55",
+    "foreign_word": "orang-orang",
+    "korean_meaning": "사람들",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_56",
+    "id": "initial_1762355312222_56",
+    "foreign_word": "mobil-mobil",
+    "korean_meaning": "자동차들",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_57",
+    "id": "initial_1762355312222_57",
+    "foreign_word": "banyak",
+    "korean_meaning": "많은",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_58",
+    "id": "initial_1762355312222_58",
+    "foreign_word": "beberapa",
+    "korean_meaning": "몇몇의",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_59",
+    "id": "initial_1762355312222_59",
+    "foreign_word": "semua",
+    "korean_meaning": "모든",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_60",
+    "id": "initial_1762355312222_60",
+    "foreign_word": "banyak orang",
+    "korean_meaning": "많은 사람",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_61",
+    "id": "initial_1762355312222_61",
+    "foreign_word": "beberapa mahasiswa",
+    "korean_meaning": "몇몇의 대학생",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_62",
+    "id": "initial_1762355312222_62",
+    "foreign_word": "semua pegawai",
+    "korean_meaning": "모든 직원",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_63",
+    "id": "initial_1762355312222_63",
+    "foreign_word": "mata",
+    "korean_meaning": "눈",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_64",
+    "id": "initial_1762355312222_64",
+    "foreign_word": "hari",
+    "korean_meaning": "날, day",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_65",
+    "id": "initial_1762355312222_65",
+    "foreign_word": "matahari",
+    "korean_meaning": "태양",
+    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_66",
+    "id": "initial_1762355312222_66",
+    "foreign_word": "mata-mata",
+    "korean_meaning": "간첩",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_67",
+    "id": "initial_1762355312222_67",
+    "foreign_word": "dua orang",
+    "korean_meaning": "두 명의 사람",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_68",
+    "id": "initial_1762355312222_68",
+    "foreign_word": "beberapa guru",
+    "korean_meaning": "몇몇의 선생님",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_69",
+    "id": "initial_1762355312222_69",
+    "foreign_word": "banyak buku",
+    "korean_meaning": "많은 책",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_70",
+    "id": "initial_1762355312222_70",
+    "foreign_word": "sedikit",
+    "korean_meaning": "적은",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_71",
+    "id": "initial_1762355312222_71",
+    "foreign_word": "uang",
+    "korean_meaning": "돈",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_72",
+    "id": "initial_1762355312222_72",
+    "foreign_word": "air",
+    "korean_meaning": "물",
+    "image_url": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=400&h=300&fit=crop",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_73",
+    "id": "initial_1762355312222_73",
+    "foreign_word": "kobokan",
+    "korean_meaning": "핑거볼",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_74",
+    "id": "initial_1762355312222_74",
+    "foreign_word": "air kobokan",
+    "korean_meaning": "손 씻는 물",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_75",
+    "id": "initial_1762355312222_75",
+    "foreign_word": "nasi goreng",
+    "korean_meaning": "볶음밥",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_76",
+    "id": "initial_1762355312222_76",
+    "foreign_word": "mi goreng",
+    "korean_meaning": "볶음면",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_77",
+    "id": "initial_1762355312222_77",
+    "foreign_word": "sate ayam",
+    "korean_meaning": "닭 꼬치구이",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "initial_1762355312222_78",
+    "id": "initial_1762355312222_78",
+    "foreign_word": "nasi tumpeng",
+    "korean_meaning": "특별한 날 먹는 파티음식",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-05T15:08:32.222Z",
+    "group_id": "17624956021630.8106431216903545"
+  },
+  {
+    "__backendId": "17623556202620.20942503565011772",
+    "id": "1762355620262",
+    "foreign_word": "anjing",
+    "korean_meaning": "개",
+    "image_url": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=400&h=300&fit=crop",
+    "type": "word",
+    "created_at": "2025-11-05T15:13:40.262Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624972202940.7829859819159429",
+    "id": "1762497220294",
+    "foreign_word": "rusa",
+    "korean_meaning": "사슴",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:33:40.294Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624972330830.6778576729910489",
+    "id": "1762497233083",
+    "foreign_word": "lusa",
+    "korean_meaning": "모레",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:33:53.083Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624972706580.1197507955914594",
+    "id": "1762497270658",
+    "foreign_word": "pasar",
+    "korean_meaning": "시장",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:34:30.658Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624972823320.8582346926467975",
+    "id": "1762497282332",
+    "foreign_word": "pasal",
+    "korean_meaning": "조항",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:34:42.332Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624972964560.4631499887948819",
+    "id": "1762497296456",
+    "foreign_word": "gang",
+    "korean_meaning": "골목",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:34:56.456Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624973184960.5140025833102398",
+    "id": "1762497318496",
+    "foreign_word": "Ngantuk",
+    "korean_meaning": "졸리다",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:35:18.496Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624973355770.702932271623404",
+    "id": "1762497335577",
+    "foreign_word": "pulau",
+    "korean_meaning": "섬",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:35:35.577Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624973484700.40423993352065946",
+    "id": "1762497348470",
+    "foreign_word": "pantai",
+    "korean_meaning": "해변",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:35:48.470Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624973662690.6758498519394504",
+    "id": "1762497366269",
+    "foreign_word": "amboi",
+    "korean_meaning": "아하(감탄사)",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:36:06.269Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624973793650.742624456246614",
+    "id": "1762497379365",
+    "foreign_word": "bebek",
+    "korean_meaning": "오리",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:36:19.365Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624973881330.44472293684072983",
+    "id": "1762497388133",
+    "foreign_word": "cabe",
+    "korean_meaning": "고추",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:36:28.133Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624974710930.984221601946812",
+    "id": "1762497471093",
+    "foreign_word": "domba",
+    "korean_meaning": "양",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:37:51.093Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624974789810.6264776188404384",
+    "id": "1762497478981",
+    "foreign_word": "kambing",
+    "korean_meaning": "염소",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:37:58.981Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624974923250.15749662544973275",
+    "id": "1762497492325",
+    "foreign_word": "empat",
+    "korean_meaning": "숫자 4",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:38:12.325Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624975014050.6881442331270535",
+    "id": "1762497501405",
+    "foreign_word": "Ekor",
+    "korean_meaning": "꼬리",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:38:21.405Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624975092850.38533806561876416",
+    "id": "1762497509285",
+    "foreign_word": "kertas",
+    "korean_meaning": "종이",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:38:29.285Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624975152460.03422604235830862",
+    "id": "1762497515246",
+    "foreign_word": "foto",
+    "korean_meaning": "사진",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:38:35.246Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624975291330.30710388951572454",
+    "id": "1762497529133",
+    "foreign_word": "gajah",
+    "korean_meaning": "코끼리",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:38:49.133Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624975365820.7797349103525715",
+    "id": "1762497536582",
+    "foreign_word": "harimau",
+    "korean_meaning": "호랑이",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:38:56.582Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624975439010.004137340957704128",
+    "id": "1762497543901",
+    "foreign_word": "ikan",
+    "korean_meaning": "생선, 물고기",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:39:03.901Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624975497890.9151998967162811",
+    "id": "1762497549789",
+    "foreign_word": "jeruk",
+    "korean_meaning": "귤",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:39:09.789Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624975594860.9075402035693175",
+    "id": "1762497559486",
+    "foreign_word": "kuda",
+    "korean_meaning": "말",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:39:19.486Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624975656610.9295065328081386",
+    "id": "1762497565661",
+    "foreign_word": "Lobak",
+    "korean_meaning": "무",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:39:25.661Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624975777100.7966130740505454",
+    "id": "1762497577710",
+    "foreign_word": "mangga",
+    "korean_meaning": "망고",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:39:37.710Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624975849800.32831173487438714",
+    "id": "1762497584980",
+    "foreign_word": "nanas",
+    "korean_meaning": "파인애플",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:39:44.980Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624975956620.09628898243820716",
+    "id": "1762497595662",
+    "foreign_word": "obat",
+    "korean_meaning": "약",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:39:55.662Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624976049260.9515309032248692",
+    "id": "1762497604926",
+    "foreign_word": "pisang",
+    "korean_meaning": "바나나",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:40:04.926Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624976130450.2808709949435876",
+    "id": "1762497613045",
+    "foreign_word": "Quran",
+    "korean_meaning": "코란 경전",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:40:13.045Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624976231980.07780471665324717",
+    "id": "1762497623198",
+    "foreign_word": "sapi",
+    "korean_meaning": "소",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:40:23.198Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624976320330.8500386379168525",
+    "id": "1762497632033",
+    "foreign_word": "Tikus",
+    "korean_meaning": "쥐",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:40:32.033Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624976434540.7228379787351195",
+    "id": "1762497643454",
+    "foreign_word": "Ular",
+    "korean_meaning": "뱀",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:40:43.454Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624976532210.27255667993767296",
+    "id": "1762497653221",
+    "foreign_word": "vas",
+    "korean_meaning": "화병, 꽃병",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:40:53.221Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624976660690.3449935487527651",
+    "id": "1762497666069",
+    "foreign_word": "wayang",
+    "korean_meaning": "전통 그림자극",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:41:06.069Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624976735980.5084723977998413",
+    "id": "1762497673598",
+    "foreign_word": "wortel",
+    "korean_meaning": "당근",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:41:13.598Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624977138570.36740440337617297",
+    "id": "1762497713857",
+    "foreign_word": "wudu",
+    "korean_meaning": "기도전 정화의식",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:41:53.857Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624977209490.6279601440266502",
+    "id": "1762497720949",
+    "foreign_word": "wisata",
+    "korean_meaning": "관광",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:42:00.949Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624977639820.7631361771260768",
+    "id": "1762497763982",
+    "foreign_word": "xilofon",
+    "korean_meaning": "실로폰",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:42:43.982Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624977699250.033586671117587175",
+    "id": "1762497769925",
+    "foreign_word": "yoyo",
+    "korean_meaning": "요요",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:42:49.925Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624977763730.2999009522680769",
+    "id": "1762497776373",
+    "foreign_word": "zebra",
+    "korean_meaning": "얼룩말",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T06:42:56.373Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624977993350.13078849257014136",
+    "id": "1762497799335",
+    "foreign_word": "Selamat pagi",
+    "korean_meaning": "아침인사",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T06:43:19.335Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624978117180.6827996687331291",
+    "id": "1762497811718",
+    "foreign_word": "Selamat siang",
+    "korean_meaning": "점심인사",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T06:43:31.718Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624978226620.7239605444002764",
+    "id": "1762497822662",
+    "foreign_word": "Selamat sore",
+    "korean_meaning": "오후인사",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T06:43:42.662Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624978343440.8164394826683968",
+    "id": "1762497834344",
+    "foreign_word": "Selamat malam",
+    "korean_meaning": "저녁인사",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T06:43:54.344Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624978492430.022298983243680515",
+    "id": "1762497849243",
+    "foreign_word": "makan",
+    "korean_meaning": "먹다",
+    "image_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400&h=300&fit=crop",
+    "type": "word",
+    "created_at": "2025-11-07T06:44:09.243Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624978732530.6825582357324149",
+    "id": "1762497873253",
+    "foreign_word": "Apa kabar?",
+    "korean_meaning": "어떻게 지냈어요? 잘 지냈어요?",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T06:44:33.253Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624978888390.20561166092354266",
+    "id": "1762497888839",
+    "foreign_word": "Baik-baik saja.",
+    "korean_meaning": "잘 지냈어요.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T06:44:48.839Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624979082600.039082594273693205",
+    "id": "1762497908260",
+    "foreign_word": "Terima kasih.",
+    "korean_meaning": "감사합니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T06:45:08.260Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624979256070.6541125298541778",
+    "id": "1762497925607",
+    "foreign_word": "Terima kasih banyak.",
+    "korean_meaning": "정말 감사합니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T06:45:25.607Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624979386150.9458758082874271",
+    "id": "1762497938615",
+    "foreign_word": "Sama-sama.",
+    "korean_meaning": "별말씀을요.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T06:45:38.615Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624979522710.06519916928629899",
+    "id": "1762497952271",
+    "foreign_word": "Sampai jumpa lagi.",
+    "korean_meaning": "다시 만나요.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T06:45:52.271Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624979647740.6863015057261626",
+    "id": "1762497964774",
+    "foreign_word": "Sampai nanti.",
+    "korean_meaning": "이따 봐요.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T06:46:04.774Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624979759570.2590568053133513",
+    "id": "1762497975957",
+    "foreign_word": "Sampai besok.",
+    "korean_meaning": "내일 만나요.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T06:46:15.957Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17624979922580.27188630796967184",
+    "id": "1762497992258",
+    "foreign_word": "Sampai minggu depan.",
+    "korean_meaning": "다음 주에 만나요.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T06:46:32.258Z",
+    "group_id": "17624955953700.6455272155749111"
+  },
+  {
+    "__backendId": "17625016409910.900767341843871",
+    "id": "1762501640991",
+    "foreign_word": "buku",
+    "korean_meaning": "책",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:47:20.991Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625016466700.8138209733918127",
+    "id": "1762501646670",
+    "foreign_word": "baju",
+    "korean_meaning": "옷",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:47:26.670Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625016534780.5191425914685951",
+    "id": "1762501653478",
+    "foreign_word": "mobil",
+    "korean_meaning": "자동차",
+    "image_url": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=400&h=300&fit=crop",
+    "type": "word",
+    "created_at": "2025-11-07T07:47:33.478Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625016601180.9423392589907996",
+    "id": "1762501660118",
+    "foreign_word": "pintu",
+    "korean_meaning": "문",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:47:40.118Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625016714860.5892395838236497",
+    "id": "1762501671486",
+    "foreign_word": "komputer",
+    "korean_meaning": "컴퓨터",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:47:51.486Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625017005590.38842857097460604",
+    "id": "1762501700559",
+    "foreign_word": "Apa ini?",
+    "korean_meaning": "이것은 무엇입니까?",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T07:48:20.559Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625017151890.8678828680522296",
+    "id": "1762501715189",
+    "foreign_word": "Apa itu?",
+    "korean_meaning": "저것은 무엇입니까?",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T07:48:35.189Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625017254700.06669612802077729",
+    "id": "1762501725470",
+    "foreign_word": "sekolah",
+    "korean_meaning": "학교",
+    "image_url": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=400&h=300&fit=crop",
+    "type": "word",
+    "created_at": "2025-11-07T07:48:45.470Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625017349180.6235053914734167",
+    "id": "1762501734918",
+    "foreign_word": "bioskop",
+    "korean_meaning": "영화관",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:48:54.918Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625017431500.8202958551453047",
+    "id": "1762501743150",
+    "foreign_word": "kantor",
+    "korean_meaning": "사무실",
+    "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&h=300&fit=crop",
+    "type": "word",
+    "created_at": "2025-11-07T07:49:03.150Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625017549580.2130624618939827",
+    "id": "1762501754958",
+    "foreign_word": "kamar kecil",
+    "korean_meaning": "화장실",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:49:14.958Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625017651110.8655063188126316",
+    "id": "1762501765111",
+    "foreign_word": "pensil",
+    "korean_meaning": "연필",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:49:25.111Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625017743410.6311089147543474",
+    "id": "1762501774341",
+    "foreign_word": "bolpoin",
+    "korean_meaning": "볼펜",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:49:34.341Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625017815900.6814915921851069",
+    "id": "1762501781590",
+    "foreign_word": "pulpen",
+    "korean_meaning": "볼펜",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:49:41.590Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625018045740.5326219237168736",
+    "id": "1762501804574",
+    "foreign_word": "tas",
+    "korean_meaning": "가방",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:50:04.574Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625018129750.9391799970796355",
+    "id": "1762501812975",
+    "foreign_word": "papan tulis",
+    "korean_meaning": "칠판",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:50:12.975Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625018216380.7918315765031556",
+    "id": "1762501821638",
+    "foreign_word": "bangku",
+    "korean_meaning": "의자",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:50:21.638Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625018281990.3617073773705737",
+    "id": "1762501828199",
+    "foreign_word": "kursi",
+    "korean_meaning": "의자",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:50:28.199Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625018374790.22385092796255857",
+    "id": "1762501837479",
+    "foreign_word": "meja",
+    "korean_meaning": "테이블",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:50:37.479Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625018519430.8344337569066061",
+    "id": "1762501851943",
+    "foreign_word": "meja belajar",
+    "korean_meaning": "책상",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:50:51.943Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625018589990.28567953684436387",
+    "id": "1762501858999",
+    "foreign_word": "meja makan",
+    "korean_meaning": "식탁",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:50:58.999Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625018673340.33130953108734185",
+    "id": "1762501867334",
+    "foreign_word": "jam",
+    "korean_meaning": "벽시계",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:51:07.334Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625018766700.7442196176704914",
+    "id": "1762501876670",
+    "foreign_word": "jam tangan",
+    "korean_meaning": "손목시계",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:51:16.670Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625018863900.9725477782432105",
+    "id": "1762501886390",
+    "foreign_word": "jendela",
+    "korean_meaning": "창문",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:51:26.390Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625019198060.0998989790369994",
+    "id": "1762501919806",
+    "foreign_word": "pintu",
+    "korean_meaning": "문",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:51:59.806Z",
+    "group_id": "17624956698180.7098070957026962"
+  },
+  {
+    "__backendId": "17625019948400.926222290401148",
+    "id": "1762501994840",
+    "foreign_word": "Apakah ini buku?",
+    "korean_meaning": "이것은 책입니까?",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T07:53:14.840Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625020088550.008938150885936968",
+    "id": "1762502008855",
+    "foreign_word": "Ya, ini buku.",
+    "korean_meaning": "네, 이것은 책입니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T07:53:28.855Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625020254160.458508324906864",
+    "id": "1762502025416",
+    "foreign_word": "Apakah itu kamus?",
+    "korean_meaning": "저것은 사전입니까?",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T07:53:45.416Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625020382300.3631894792503063",
+    "id": "1762502038230",
+    "foreign_word": "Ya, itu kamus.",
+    "korean_meaning": "네, 저것은 사전입니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T07:53:58.230Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625020598360.6921598430058575",
+    "id": "1762502059836",
+    "foreign_word": "Bukan, ini bukan buku.",
+    "korean_meaning": "아니요, 이것은 책이 아닙니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T07:54:19.836Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625020897470.2726234979969532",
+    "id": "1762502089747",
+    "foreign_word": "Apakah itu rumah Anda?",
+    "korean_meaning": "저것은 당신의 집입니까?",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T07:54:49.747Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625021100880.014848824224144686",
+    "id": "1762502110088",
+    "foreign_word": "Bukan, itu bukan rumah saya.",
+    "korean_meaning": "아니요, 저것은 제 집이 아닙니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T07:55:10.088Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625021599820.6325569040647738",
+    "id": "1762502159982",
+    "foreign_word": "tidak",
+    "korean_meaning": "~하지 않다.",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:55:59.982Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625021742560.02393599041332317",
+    "id": "1762502174256",
+    "foreign_word": "belum",
+    "korean_meaning": "아직~하지 않았다",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:56:14.256Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625022231590.25968082283922234",
+    "id": "1762502223159",
+    "foreign_word": "Mereka tidak belajar bahasa Indonesia.",
+    "korean_meaning": "그들은 인도네시아어를 배우지 않는다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T07:57:03.159Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625022404490.06153959435167866",
+    "id": "1762502240449",
+    "foreign_word": "Saya belum makan malam.",
+    "korean_meaning": "나는 아직 저녁식사를 하지 않았다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T07:57:20.449Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625022629340.7641436523512337",
+    "id": "1762502262934",
+    "foreign_word": "tinggi",
+    "korean_meaning": "키가 크다, 높이가 높다.",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:57:42.934Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625022752840.5453155374967665",
+    "id": "1762502275284",
+    "foreign_word": "lapar",
+    "korean_meaning": "배고프다, 허기지다",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:57:55.284Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625022964080.5405566405514165",
+    "id": "1762502296408",
+    "foreign_word": "Dia tidak tinggi.",
+    "korean_meaning": "그/그녀는 키가 크지 않다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T07:58:16.408Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625023112610.7495008400427328",
+    "id": "1762502311261",
+    "foreign_word": "Saya belum lapar.",
+    "korean_meaning": "나는 아직 배가 고프지 않다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T07:58:31.261Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625023429090.9238523064399098",
+    "id": "1762502342909",
+    "foreign_word": "Saya belum makan pagi.",
+    "korean_meaning": "나는 아직 아침식사를 하지 않았습니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T07:59:02.909Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625023612340.3825160501044652",
+    "id": "1762502361234",
+    "foreign_word": "Saya tidak makan pagi.",
+    "korean_meaning": "나는 (원래) 아침식사를 하지 않습니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T07:59:21.234Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625023771930.42709396790319487",
+    "id": "1762502377193",
+    "foreign_word": "kurang",
+    "korean_meaning": "부족한, 모자란",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T07:59:37.193Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625023982900.13916077423091433",
+    "id": "1762502398290",
+    "foreign_word": "Saya kurang tahu.",
+    "korean_meaning": "잘 모르겠습니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T07:59:58.290Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625024297180.6575479389341945",
+    "id": "1762502429718",
+    "foreign_word": "Saya kurang mengerti.",
+    "korean_meaning": "잘 이해가 되지 않습니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:00:29.718Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625024556460.37842642287033057",
+    "id": "1762502455646",
+    "foreign_word": "Saya kurang suka minum kopi.",
+    "korean_meaning": "저는 커피 마시는 것을 그다지 좋아하지 않습니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:00:55.646Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625024790270.34114511305358086",
+    "id": "1762502479027",
+    "foreign_word": "Pisang itu kurang enak.",
+    "korean_meaning": "그 바나나는 맛이 별로 없습니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:01:19.027Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625025061420.5816095635846237",
+    "id": "1762502506142",
+    "foreign_word": "tahu",
+    "korean_meaning": "알다",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T08:01:46.142Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625025188140.7912627501087256",
+    "id": "1762502518814",
+    "foreign_word": "mengerti",
+    "korean_meaning": "이해하다",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T08:01:58.814Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625025289580.1513608064484847",
+    "id": "1762502528958",
+    "foreign_word": "suka",
+    "korean_meaning": "좋아하다",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T08:02:08.958Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625025373910.9453247926123733",
+    "id": "1762502537391",
+    "foreign_word": "minum",
+    "korean_meaning": "마시다",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T08:02:17.391Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625025471020.5476575310103166",
+    "id": "1762502547102",
+    "foreign_word": "enak",
+    "korean_meaning": "맛있다",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T08:02:27.102Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625028851510.6999985934246679",
+    "id": "1762502885151",
+    "foreign_word": "gula",
+    "korean_meaning": "설탕",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T08:08:05.151Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625028922310.1330654756472479",
+    "id": "1762502892231",
+    "foreign_word": "ada",
+    "korean_meaning": "있다",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T08:08:12.231Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625029000620.18324860920738406",
+    "id": "1762502900062",
+    "foreign_word": "pedas",
+    "korean_meaning": "맵다",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T08:08:20.062Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625029212140.6293476437660843",
+    "id": "1762502921214",
+    "foreign_word": "Saya tidak lapar.",
+    "korean_meaning": "저는 배가 안고파요.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:08:41.214Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625029410230.411957967334901",
+    "id": "1762502941023",
+    "foreign_word": "Gula tidak ada.",
+    "korean_meaning": "설탕이 안 들었어요. 설탕이 없어요.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:09:01.023Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625029629100.7289648591393697",
+    "id": "1762502962910",
+    "foreign_word": "Itu tidak pedas.",
+    "korean_meaning": "맵지 않아요.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:09:22.910Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625030191340.9335428760816777",
+    "id": "1762503019134",
+    "foreign_word": "Bapak minum kopi?",
+    "korean_meaning": "커피 드시겠습니까?",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:10:19.134Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625030444790.2640005461662065",
+    "id": "1762503044479",
+    "foreign_word": "Tidak, saya tidak minum kopi.",
+    "korean_meaning": "아니요, 저는 커피를 마시지 않습니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:10:44.479Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625030668950.3639508412499528",
+    "id": "1762503066895",
+    "foreign_word": "Ya, saya minum kopi.",
+    "korean_meaning": "네, 저는 커피를 마십니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:11:06.895Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625031480390.4557087915440001",
+    "id": "1762503148039",
+    "foreign_word": "datang",
+    "korean_meaning": "오다",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T08:12:28.039Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625031657740.1700223693700872",
+    "id": "1762503165774",
+    "foreign_word": "selesai",
+    "korean_meaning": "끝나다, 종료하다.",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T08:12:45.774Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625031866150.8755976851257841",
+    "id": "1762503186615",
+    "foreign_word": "Mereka belum datang.",
+    "korean_meaning": "그들은 아직 오지 않았어요.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:13:06.615Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625032085910.5207276711875014",
+    "id": "1762503208591",
+    "foreign_word": "Film belum selesai.",
+    "korean_meaning": "영화가 아직 끝나지 않았어요.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:13:28.591Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625032273660.5512404332246678",
+    "id": "1762503227366",
+    "foreign_word": "Aku belum makan.",
+    "korean_meaning": "나 아직 밥 안 먹었어.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:13:47.366Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625032645540.2968482094261571",
+    "id": "1762503264554",
+    "foreign_word": "Dia sudah makan siang?",
+    "korean_meaning": "그/그녀는 점심을 먹었니?",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:14:24.554Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625032845660.16732238801689847",
+    "id": "1762503284566",
+    "foreign_word": "Dia belum makan siang.",
+    "korean_meaning": "그/그녀는 아직 점심을 먹지 않았어.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:14:44.566Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625035079790.8910264292952504",
+    "id": "1762503507979",
+    "foreign_word": "Dia sudah makan malam?",
+    "korean_meaning": "그/그녀는 이미 저녁을 먹었니?",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:18:27.979Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625035286150.8313520629277793",
+    "id": "1762503528615",
+    "foreign_word": "Dia tidak makan malam.",
+    "korean_meaning": "그/그녀는 저녁을 먹지 않아.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:18:48.615Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625036465210.27348464298527553",
+    "id": "1762503646521",
+    "foreign_word": "Apakah Anda sudah menikah?",
+    "korean_meaning": "당신은 이미 결혼 하셨나요?",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:20:46.521Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625036935430.5666964071627283",
+    "id": "1762503693543",
+    "foreign_word": "Saya tidak menikah.",
+    "korean_meaning": "저는 결혼하지 않습니다. 독신주의자입니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:21:33.543Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625037082550.0003063487900683004",
+    "id": "1762503708255",
+    "foreign_word": "Saya belum menikah.",
+    "korean_meaning": "저는 아직 결혼을 하지 않았습니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:21:48.255Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625037845190.3412186831069778",
+    "id": "1762503784519",
+    "foreign_word": "punya",
+    "korean_meaning": "가지다",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T08:23:04.519Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625038009830.05620447973576237",
+    "id": "1762503800983",
+    "foreign_word": "Anda punya pacar?",
+    "korean_meaning": "애인 있나요?",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:23:20.983Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625038109670.8532307759524588",
+    "id": "1762503810967",
+    "foreign_word": "Belum ada.",
+    "korean_meaning": "아직 없어요.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:23:30.967Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625038227750.17210578546162802",
+    "id": "1762503822775",
+    "foreign_word": "Tidak ada.",
+    "korean_meaning": "없어요.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:23:42.775Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625038647920.06276916267883337",
+    "id": "1762503864792",
+    "foreign_word": "membaca buku",
+    "korean_meaning": "책을 읽다",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:24:24.792Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625038875900.8422129058851757",
+    "id": "1762503887590",
+    "foreign_word": "menulis surat",
+    "korean_meaning": "편지를 쓰다",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:24:47.590Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625039011350.5871793412877742",
+    "id": "1762503901135",
+    "foreign_word": "makan nasi",
+    "korean_meaning": "밥을 먹다",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:25:01.135Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625039126070.3782768403703042",
+    "id": "1762503912607",
+    "foreign_word": "minum bir",
+    "korean_meaning": "맥주를 마시다",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:25:12.607Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625039298310.2270021199275769",
+    "id": "1762503929831",
+    "foreign_word": "pergi ke kantor",
+    "korean_meaning": "출근하다",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:25:29.831Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625039577030.010086100721551361",
+    "id": "1762503957703",
+    "foreign_word": "pergi ke sekolah",
+    "korean_meaning": "등교하다",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:25:57.703Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625039713980.1731088258549055",
+    "id": "1762503971398",
+    "foreign_word": "tidur",
+    "korean_meaning": "자다",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T08:26:11.398Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625039796540.6629944478623527",
+    "id": "1762503979654",
+    "foreign_word": "mandi",
+    "korean_meaning": "샤워하다",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T08:26:19.654Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625040002780.7249701304776544",
+    "id": "1762504000278",
+    "foreign_word": "pergi ke bioskop",
+    "korean_meaning": "영화관을 가다",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:26:40.278Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625040204400.5992237968804827",
+    "id": "1762504020440",
+    "foreign_word": "menonton televisi",
+    "korean_meaning": "TV를 시청하다",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:27:00.440Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625040301350.4515338332398042",
+    "id": "1762504030135",
+    "foreign_word": "menonton film",
+    "korean_meaning": "영화를 보다",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:27:10.135Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625040770620.9337170151873326",
+    "id": "1762504077062",
+    "foreign_word": "Apakah dia minum kopi?",
+    "korean_meaning": "그는 커피를 마시고 있나요?",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:27:57.062Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625040969020.21085758944742516",
+    "id": "1762504096902",
+    "foreign_word": "Tidak, dia tidak minum kopi.",
+    "korean_meaning": "아니요, 그는 커피를 마시고 있지 않습니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:28:16.902Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625041118300.9460360002082132",
+    "id": "1762504111830",
+    "foreign_word": "Dia membaca buku.",
+    "korean_meaning": "그는 책을 읽고 있습니다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:28:31.830Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625042238950.3128759375784538",
+    "id": "1762504223895",
+    "foreign_word": "tinggal di",
+    "korean_meaning": "~에 살다, 거주하다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:30:23.895Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625042427820.33699666915880466",
+    "id": "1762504242782",
+    "foreign_word": "berasal dari",
+    "korean_meaning": "~출신이다.",
+    "image_url": "",
+    "type": "sentence",
+    "created_at": "2025-11-07T08:30:42.782Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625042641280.836940981498702",
+    "id": "1762504264128",
+    "foreign_word": "daging babi",
+    "korean_meaning": "돼지고기",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T08:31:04.128Z",
+    "group_id": "17625043069160.30058885860622275"
+  },
+  {
+    "__backendId": "17625042792070.5002778768955273",
+    "id": "1762504279207",
+    "foreign_word": "bagus",
+    "korean_meaning": "좋은, 훌륭한",
+    "image_url": "",
+    "type": "word",
+    "created_at": "2025-11-07T08:31:19.207Z",
+    "group_id": "17625043069160.30058885860622275"
+  }
+]
